@@ -6,7 +6,7 @@
 ### Features:
 * Doesn't use external images
 * Customize size
-* Customize colors
+* Customize colors (and gradients)
 * Use half or full stars
 * Choose the number of stars to be displayed
 * Define gradient color of selected stars
